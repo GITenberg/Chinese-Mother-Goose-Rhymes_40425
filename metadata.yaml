@@ -1,0 +1,28 @@
+_repo: Chinese-Mother-Goose-Rhymes_40425
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Headland, Isaac Taylor
+    birthdate: 1859
+    deathdate: 1942
+    gutenberg_agent_id: '273'
+    url: http://www.gutenberg.org/2009/agents/273
+covers:
+- cover_type: generated
+  image_path: cover.png
+description: ''
+gutenberg_issued: '2012-08-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40425'
+  lccn: 01029054
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Nursery rhymes, Chinese'
+- !lcsh 'Chinese poetry -- Translations into English'
+- !lcc 'PZ'
+title: Chinese Mother Goose Rhymes
+url: http://www.gutenberg.org/ebooks/40425
